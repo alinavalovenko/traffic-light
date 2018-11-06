@@ -1,11 +1,23 @@
-function start() {
+var tl = new function() {
 
-}
+    this.color = '';
 
-function pause() {
+    this.timer = function(duration) {
+        
+    };
 
-}
+    this.start = function() {
 
-function stop() {
+    };
 
-}
+    this.stop = function() {
+
+    };
+
+    this.pause = function() {
+
+    };
+
+};
+
+//tl.start();
